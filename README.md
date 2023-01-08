@@ -14,5 +14,5 @@ The overall goal is to solve challenges while using PowerShell. Will convert cha
 
 ### Installing
 
-* Install VSCode and install powershell on your computer if not already.
+* Install VSCode and install powershell on your computer if not performed already.
 
