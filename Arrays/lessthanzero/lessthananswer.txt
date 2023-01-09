@@ -1,0 +1,1 @@
+There is an array item that is less than zero which equalsTrue
