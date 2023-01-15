@@ -1,0 +1,739 @@
+
+   PriorityClass: Normal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                              0            0
+                              1            0
+                            284            0
+                            285            0
+                            286            0
+                            288            0
+                            289            0
+                            290            0
+                            292            0
+                            294            0
+                            295            0
+                            296            0
+                            297            0
+                            298            0
+                            300            0
+                            302            0
+                            304            0
+                            305            0
+                            307            0
+                            311            0
+                            312            0
+                            313            0
+                            314            0
+                            317            0
+                            318            0
+                            321            0
+                            322            0
+                            323            0
+                            324            0
+                            325            0
+                            326            0
+                            327            0
+                            328            0
+                            330            0
+                            332            0
+                            333            0
+                            335            0
+                            336            0
+                            338            0
+                            339            0
+                            340            0
+                            341            0
+                            342            0
+                            345            0
+                            346            0
+                            347            0
+                            348            0
+                            349            0
+                            350            0
+                            351            0
+                            352            0
+                            353            0
+                            354            0
+                            355            0
+                            357            0
+                            358            0
+                            359            0
+                            360            0
+                            361            0
+                            363            0
+                            367            0
+                            368            0
+                            369            0
+                            370            0
+                            371            0
+                            372            0
+                            374            0
+                            375            0
+                            376            0
+                            394            0
+                            400            0
+                            407            0
+                            412            0
+                            414            0
+                            415            0
+                            416            0
+                            423            0
+                            424            0
+                            425            0
+                            428            0
+                            436            0
+                            438            0
+                            439            0
+                            440            0
+                            441            0
+                            442            0
+                            443            0
+                            444            0
+                            445            0
+                            448            0
+                            449            0
+                            450            0
+                            451            0
+                            452            0
+                            453            0
+                            454            0
+                            455            0
+                            456            0
+                            457            0
+                            459            0
+                            461            0
+                            470            0
+                            471            0
+                            472            0
+                            473            0
+                            475            0
+                            476            0
+                            478            0
+                            480            0
+                            481            0
+                            484            0
+                            486            0
+                            487            0
+                            490            0
+                            492            0
+                            494            0
+                            497            0
+                            501            0
+                            502            0
+                            503            0
+                            504            0
+                            505            0
+                            506            0
+                            507            0
+                            508            0
+                            509            0
+                            510            0
+                            511            0
+                            515            0
+                            517            0
+                            521            0
+                            524            0
+                            525            0
+                            527            0
+                            530            0
+                            555            0
+                            561            0
+                            573            0
+                            584            0
+                            591            0
+                            597            0
+                            608            0
+                            617            0
+                            619            0
+                            621            0
+                            634            0
+                            635            0
+                            636            0
+                            637            0
+                            638            0
+                            640            0
+                            673            0
+                            676            0
+                            677            0
+                            695            0
+                            698            0
+                            705            0
+                            741            0
+                            760            0
+                            761            0
+                            762            0
+                            875            0
+                            876            0
+                           1032            0
+                           1058            0
+                           1059            0
+                           1062            0
+                           1066            0
+                           1067            0
+                           1081            0
+                           1107            0
+                           1112            0
+                           1128            0
+                           1154            0
+                           1157            0
+                           1166            0
+                           1168            0
+                           1185            0
+                           1206            0
+                           1207            0
+                           1211            0
+                           1215            0
+                           1216            0
+                           1217            0
+                           1218            0
+                           1264            0
+
+   PriorityClass: Idle
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                           1265            0
+
+   PriorityClass: Normal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                           1266            0
+                           1303            0
+                           1350            0
+                           1352            0
+                           1353            0
+                           1362            0
+                           1364            0
+                           1368            0
+                           1369            0
+                           1371            0
+                           1372            0
+                           1373            0
+                           1374            0
+                           1432            0
+                           1434            0
+                           1435            0
+                           1436            0
+                           1476            0
+                           1503            0
+                           1706            0
+                           2111            0
+                           2132            0
+                           2196            0
+                           2199            0
+                           2639            0
+                           2643            0
+                           2644            0
+                           2646            0
+                           2662            0
+                           2929            0
+                           2930            0
+                           2931            0
+                           2934            0
+                           2935            0
+                           2936            0
+                           2937            0
+                           2938            0
+                           2940            0
+                           2964            0
+
+   PriorityClass: BelowNormal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                           2993            0
+
+   PriorityClass: Normal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                           3115            0
+                           3130            0
+                           3131            0
+                           3147            0
+                           3183            0
+                           3184            0
+                           3191            0
+                           3544            0
+                           5427            0
+
+   PriorityClass: BelowNormal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                           8882            0
+
+   PriorityClass: Normal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                           9573            0
+                           9590            0
+                          12068            0
+
+   PriorityClass: BelowNormal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                          13266            0
+
+   PriorityClass: Normal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                          13284            0
+                          25959            0
+                          25967            0
+                          25971            0
+                          32204            0
+                          32297            0
+                          32695            0
+                          38378            0
+                          41303            0
+
+   PriorityClass: Idle
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                          41315            0
+
+   PriorityClass: Normal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+                          41319            0
+                          41320            0
+                          41321            0
+accountsd                   554     29261824
+AccountSubscrib            3105      2818048
+adprivacyd                 1261      6930432
+AirPlayUIAgent             1026      6799360
+akd                         593     14434304
+AMPArtworkAgent            3176        16384
+AMPDeviceDiscov             696      2605056
+AMPLibraryAgent            3173      5636096
+amsaccountsd                913      8372224
+amsengagementd              914     11943936
+
+   PriorityClass: BelowNormal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+AntivirusforMac            1014     34373632
+
+   PriorityClass: Normal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+APFSUserAgent               538        16384
+appleaccountd              2290      8880128
+AppleSpell                 1275    130318336
+AppSSOAgent                 537      7831552
+appstoreagent              1431     19824640
+askpermissiond             1023      2342912
+AssetCacheLocat             675      3538944
+assistantd                  628     37126144
+assistant_servi            1263     36421632
+AudioComponentR             700      5177344
+AuthenticationS           14235        16384
+avatarsd                   3206      7340032
+avconferenced               614      9732096
+axassetsd                  1015        16384
+backgroundasset            2960      1835008
+BackgroundTaskM             531      5701632
+BiomeAgent                  540      5832704
+biomesyncd                 1073     12861440
+bird                        575     25559040
+Bitdefender VPN            1036     20889600
+bluetoothuserd              580      1376256
+BTLEServerAgent            2469      3620864
+calaccessd                  674     16908288
+CalendarWidgetE            1501     19365888
+CallHistoryPlug             709     10977280
+CallHistorySync            2412     12435456
+callservicesd               556     18415616
+CarbonComponent             704        20480
+CategoriesServi            1382       557056
+cdpd                        625      7520256
+cfprefsd                    491      4833280
+chrome_crashpad             867      1818624
+chrome_crashpad            8532      1703936
+cloudd                      566     39583744
+CloudKeychainPr             627      3604480
+cloudpaird                  579     14221312
+cloudphotod                1210      9355264
+CMFSyncAgent                630      4423680
+Code Helper                8535     14745600
+Code Helper               27528     51707904
+Code Helper               36413     91930624
+Code Helper               36871      9486336
+Code Helper (GP            8533     82673664
+Code Helper (Re            8546    118636544
+Code Helper (Re            8548     45088768
+Code Helper (Re           16082    129892352
+Code Helper (Re           27529      6979584
+Code Helper (Re           27544    448823296
+Code Helper (Re           36414     21725184
+colorsync.usera            1040        16384
+com.apple.acces            1358      1359872
+com.apple.appki            2636     16990208
+com.apple.appki           11801     27508736
+com.apple.appki           38512     12861440
+com.apple.AppSt           30256        16384
+com.apple.audio             813        16384
+com.apple.audio            1144        16384
+com.apple.audio            1271        16384
+com.apple.audio            1377        16384
+com.apple.audio            1475        16384
+com.apple.audio            2989        16384
+com.apple.audio            5366        16384
+com.apple.audio            5367        16384
+com.apple.audio            5369        16384
+com.apple.audio           14902        16384
+com.apple.audio           26283        16384
+com.apple.BKAge            3175      2097152
+com.apple.Chara            6717        16384
+com.apple.Cloud             771      9011200
+com.apple.Cloud           20128      2801664
+com.apple.Color            1041        16384
+com.apple.CoreS           12067      6897664
+com.apple.dock.             706     12632064
+com.apple.FaceT             600        16384
+com.apple.geod              606     13680640
+com.apple.hiser             562      3178496
+com.apple.photo            2974     22183936
+com.apple.photo           32521       376832
+com.apple.quick            1269     17399808
+com.apple.Safar            1044        16384
+com.apple.Safar            3999     34177024
+com.apple.Safar           14192       950272
+com.apple.sbd               534      8241152
+com.apple.siri-            1091      3440640
+com.apple.siri.             632        16384
+com.apple.siri.            1037      1507328
+com.apple.tonel            1473        16384
+com.apple.WebKi           26285      7438336
+com.apple.WebKi           26289     46366720
+com.apple.WebKi           42664     55721984
+CommCenter                  536     11190272
+commerce                    735      8601600
+contactsd                   592     24494080
+contactsdonatio            3205     14139392
+containermanage             548      6438912
+ContainerMetada            1108        16384
+contentlinkingd             804      5013504
+ContextService              615     75300864
+ContextStoreAge             546     14663680
+ContinuityCaptu             618     16973824
+ControlCenter               685     46284800
+coreautha                  2114     14270464
+coreauthd                   587      7979008
+CoreLocationAge             549      7946240
+CoreServicesUIA             585     14073856
+corespeechd                1012     31899648
+corespotlightd              616     97763328
+CoreSpotlightSe           12110      1032192
+csnameddatad                535        16384
+ctkahp                     1033      2113536
+ctkd                        578      5259264
+dataaccessd                1043     20643840
+deleted                    1600     10960896
+devicecheckd               1692        16384
+diagnosticexten            1219      3457024
+diagnostics_age            1027      5947392
+DiskArbitration            1220        16384
+DiskUnmountWatc            1221        16384
+distnoted                   489      7028736
+dmd                         552      6471680
+Dock                        684     33783808
+DockHelper                 6977      6963200
+donotdisturbd               553     13254656
+Electron                   8530    150323200
+EscrowSecurityA            2226      5455872
+extensionkitser             586      7897088
+familycircled               590     21348352
+fileproviderd               583      9912320
+financed                    569      7127040
+Finder                      687     59965440
+findmydevice-us            1051      6111232
+fmfd                        620     11337728
+followupd                   774      4898816
+FollowUpUI                 2441     12091392
+fontd                       622     11173888
+fontworker                  629        16384
+gamecontrollera            1096      1032192
+gamed                     30592     16318464
+geodMachService            2645      2850816
+Google Chrome               678    425426944
+Google Chrome H             871    343392256
+Google Chrome H             872    102662144
+Google Chrome H             873     25444352
+Google Chrome H            1375     16154624
+Google Chrome H           29613     22085632
+Google Chrome H           29614     53526528
+Google Chrome H           29615     30900224
+Google Chrome H           39511     22528000
+Google Chrome H           39519     19988480
+Google Chrome H           39522     21544960
+Google Chrome H           39537     13238272
+Google Chrome H           39540     13221888
+Google Chrome H           39541     19005440
+Google Chrome H           39545     16039936
+Google Chrome H           39557     31850496
+Google Chrome H           39559     14319616
+Google Chrome H           39572     13402112
+Google Chrome H           39576     13467648
+Google Chrome H           39577     14041088
+Google Chrome H           39578     13877248
+Google Chrome H           39579     13910016
+Google Chrome H           39581     14794752
+Google Chrome H           39589     73367552
+Google Chrome H           39616     12566528
+Google Chrome H           39722     12189696
+Google Chrome H           39747     22495232
+Google Chrome H           40000     44957696
+Google Chrome H           40423     13254656
+Google Chrome H           40812    252444672
+Google Chrome H           41229    327057408
+Google Chrome H           42007    568311808
+Google Chrome H           42122    177012736
+Google Chrome H           42127    112902144
+Google Chrome H           42160    199589888
+Google Chrome H           42165    325156864
+Google Chrome H           42255    195264512
+Google Chrome H           42341    199311360
+Google Chrome H           42655    229916672
+Google Chrome H           42781    240713728
+Google Chrome H           42995     64258048
+heard                      1011     10813440
+homed                       598     12402688
+HomeWidget                  589        16384
+icdd                       1022      4014080
+iCloudNotificat             595     11632640
+iconservicesage             588      4128768
+identityservice             559     25264128
+IDSBlastDoorSer            1208      2850816
+imagent                     596     25690112
+IMAutomaticHist            2950      3457024
+IMDPersistenceA             599     67174400
+imklaunchagent             1019      6045696
+IMTranscoderAge             799     20430848
+IMTranscoderAge            5918        16384
+installerauthag            1102      1785856
+intelligencepla            1430      3489792
+intents_helper             1472      5390336
+intents_helper             1474      8896512
+InteractiveLega            3102        16384
+itunescloudd                716     11091968
+keyboardservice            1277      5865472
+Keychain Circle             623      5767168
+knowledge-agent             533     23969792
+knowledgeconstr            2959     22773760
+LegacyProfilesS            3103        16384
+linkd                      1201        16384
+LinkedNotesUISe           20621      5570560
+localizationswi            2992      1687552
+LocationMenu               5368     12206080
+lockoutagent                539      4243456
+loginitemregist            1199        16384
+loginwindow                 356     79233024
+lsd                         532      9650176
+Mail                      26280    369475584
+maild                      1209      7372800
+ManagementTestS            3106        16384
+mapspushd                  3057      7159808
+mbuseragent               13199       557056
+
+   PriorityClass: Idle
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+mdbulkimport               1127      1818624
+
+   PriorityClass: Normal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+mdworker                   1299        16384
+mdworker_shared           42986     26558464
+mdworker_shared           42987     26443776
+mdwrite                    1477      3981312
+media-indexer              3172      5799936
+mediaanalysisd            41900     33406976
+mediaremoteagen             613      2195456
+Messages                    682    329351168
+MessagesBlastDo            1470      6422528
+MessagesBlastDo            2384     22740992
+MessagesBlastDo            2975     27557888
+MessagesBlastDo            5919        49152
+metrickitd                 2125        16384
+Microsoft OneNo           30278     99434496
+mlruntimed                 1095      9502720
+MobileSMSSpotli            2973     15892480
+mobiletimerd                699      3653632
+MTLAssetUpgrade            1200      2195456
+MTLCompilerServ            1789      9191424
+MTLCompilerServ            3643        16384
+MTLCompilerServ            3644        16384
+MTLCompilerServ            5364        16384
+MTLCompilerServ            5365        16384
+MTLCompilerServ            8891        16384
+MTLCompilerServ           11333        16384
+MTLCompilerServ           16266        16384
+MTLCompilerServ           26332        16384
+MTLCompilerServ           31861        16384
+MTLCompilerServ           31862        16384
+MTLCompilerServ           31884        16384
+MTLCompilerServ           31885        16384
+MTLCompilerServ           33521        16384
+MTLCompilerServ           33534        16384
+MTLCompilerServ           33535        16384
+naturallanguage            1276     30474240
+nbagent                    2991      9306112
+ndoagent                   1212        16384
+neagent                     610     11829248
+networkservicep             574     19054592
+newsd                      2385     34914304
+NewsToday2                 1404     48414720
+NotificationCen             571     55656448
+nsattributedstr            1356     16973824
+nsurlsessiond               542     19595264
+OSDUIHelper                1411     10125312
+parsecd                     701     14827520
+PasscodeSetting            3104        16384
+passd                      1155     11157504
+PasswordBreachA            1363       524288
+pboard                      560      4898816
+pbs                         703      1458176
+peopled                    1013      9404416
+photolibraryd               772     57425920
+PhotoPicker               31875     19578880
+Photos                    38510     23871488
+pkd                         547     14057472
+PlugInLibrarySe             712        16384
+PlugInLibrarySe            5886        16384
+PlugInLibrarySe            6078        16384
+PlugInLibrarySe            7036        16384
+PlugInLibrarySe           12081        16384
+PlugInLibrarySe           31859        16384
+PodcastContentS            3174        16384
+PowerChime                 2932     11272192
+printtool                  2632      5210112
+proactived                 3155       458752
+proactiveeventt            1599      3653632
+progressd                  1042      9568256
+promotedcontent            1437      5259264
+ProtectedCloudK             626      5914624
+pwsh                      36461    304578560
+QuickLookSatell            1270     30294016
+QuickLookUIServ             692      6225920
+QuickLookUIServ            2637      6193152
+QuickLookUIServ            3641     10289152
+QuickLookUIServ           11802      6291456
+QuickLookUIServ           38513      6209536
+rapportd                    541     15515648
+recentsd                   2039      6832128
+remindd                    5091     14794752
+RemoteManagemen            3101       425984
+replayd                     693      1572864
+ReportCrash                 713      2621440
+reversetemplate            1471     16482304
+routined                    545     36126720
+SafariBookmarks            1376      9437184
+SafariLaunchAge             887      1409024
+SamsungPortable            1029        16384
+ScopedBookmarkA             773      3309568
+ScreenTimeAgent             551     27508736
+ScreenTimeWidge            1381     30130176
+searchpartyuser            1204     17563648
+secd                        543     17596416
+secinitd                    550     10452992
+sharedfilelistd             572      6701056
+sharingd                    601     37404672
+
+   PriorityClass: BelowNormal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+ShipIt                    27183        16384
+
+   PriorityClass: Normal
+
+ProcessName                  Id WorkingSet64
+-----------                  -- ------------
+SidecarRelay               1387      4128768
+silhouette                 3153      2310144
+SimLaunchHost.a           12069        16384
+SimulatorTrampo           12070      5636096
+Siri                       1020      7913472
+siriactionsd                690     10010624
+siriknowledged              810     18333696
+SiriNCService              1274     11567104
+sirittsd                   3099      1474560
+sociallayerd                694      9994240
+SoftwareUpdateN            1064     18890752
+spindump_agent              611      1114112
+Spotlight                   691     19611648
+spotlightknowle            3162      1212416
+StatusKitAgent              594     11124736
+StocksWidget                603     33406976
+storeaccountd              1696      1835008
+storedownloadd             2642      1507328
+storekitagent              7959      3899392
+storeuid                  30285      5636096
+studentd                    567     18399232
+suggestd                    604    138493952
+swcd                        919      3211264
+syncdefaultsd               558     10059776
+SystemUIServer              686     11354112
+talagent                    564      6864896
+tccd                        570     14647296
+Terminal                    680     25526272
+TextInputMenuAg            1028     13139968
+TextInputSwitch            1035      6782976
+ThumbnailExtens            6184      9011200
+tipsd                      2970      9224192
+translationd               3891       524288
+transparencyd               576     18038784
+triald                      633      5144576
+trustd                      563     21233664
+TrustedPeersHel             568      8798208
+UIKitSystem                 609     13320192
+universalaccess             529      6602752
+universalAccess            9444      6373376
+UniversalContro            1072     17514496
+UsageTrackingAg            1213      5783552
+USBAgent                   1224        16384
+useractivityd               612     12910592
+UserEventAgent              526      9863168
+usernoted                   544     14499840
+UserNotificatio           12060      7520256
+ViewBridgeAuxil             577      6733824
+VTDecoderXPCSer             879      7143424
+VTDecoderXPCSer            1272      6553600
+VTDecoderXPCSer            2939      3899392
+VTDecoderXPCSer            3642       524288
+VTDecoderXPCSer            5993      3375104
+VTDecoderXPCSer            6749       425984
+VTDecoderXPCSer            8534       376832
+VTDecoderXPCSer           31860       376832
+VTDecoderXPCSer           32522       393216
+VTDecoderXPCSer           32523       327680
+VTDecoderXPCSer           32576       458752
+VTEncoderXPCSer            1379      1769472
+warmd_agent                8881        16384
+weatherd                   1267       262144
+WeatherWidget               602     32178176
+WiFiAgent                   557     14958592
+WiFiVelocityAge             740      3555328
+WindowManager               565     17563648
+WorldClockWidge            1502     22839296
+XProtect                   2198      1458176
+XProtectPluginS            2200     27295744
+XprotectService            5871        16384
+zsh                       36415        16384
+zsh                       38379        16384
+

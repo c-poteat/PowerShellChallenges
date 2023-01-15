@@ -1,0 +1,13 @@
+
+    Directory: /Users/nell/Documents/DEV/PowerShell
+
+UnixMode   User             Group                 LastWriteTime           Size Name
+--------   ----             -----                 -------------           ---- ----
+drwxr-xr-x nell             staff              12/31/2022 03:19            480 powershell
+drwxr-xr-x nell             staff                1/5/2023 21:11            160 PowerShell-One-Liners
+drwxr-xr-x nell             staff                1/8/2023 21:18            224 PowerShellChallenges
+drwxr-xr-x nell             staff              12/31/2022 03:19           1120 Tiny-PowerShell-Projects
+drwxr-xr-x nell             staff                1/8/2023 14:40            512 UsefulGetCommands-PS
+drwxr-xr-x nell             staff                1/7/2023 19:35            192 webscr
+drwxr-xr-x nell             staff                1/7/2023 21:40            192 webscraper-PS
+

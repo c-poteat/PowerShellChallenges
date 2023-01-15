@@ -1,0 +1,7 @@
+powershell
+PowerShell-One-Liners
+PowerShellChallenges
+Tiny-PowerShell-Projects
+UsefulGetCommands-PS
+webscr
+webscraper-PS

@@ -1,0 +1,1210 @@
+
+Id                         : America/Los_Angeles
+HasIanaId                  : True
+DisplayName                : (UTC-08:00) Pacific Time (Los Angeles)
+StandardName               : Pacific Standard Time
+DaylightName               : Pacific Daylight Time
+BaseUtcOffset              : -08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Tijuana
+HasIanaId                  : True
+DisplayName                : (UTC-08:00) Pacific Time (Tijuana)
+StandardName               : Pacific Standard Time
+DaylightName               : Pacific Daylight Time
+BaseUtcOffset              : -08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Vancouver
+HasIanaId                  : True
+DisplayName                : (UTC-08:00) Pacific Time (Vancouver)
+StandardName               : Pacific Standard Time
+DaylightName               : Pacific Daylight Time
+BaseUtcOffset              : -08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Hermosillo
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mexican Pacific Time (Hermosillo)
+StandardName               : Mexican Pacific Standard Time
+DaylightName               : Mexican Pacific Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Mazatlan
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mexican Pacific Time (Mazatlan)
+StandardName               : Mexican Pacific Standard Time
+DaylightName               : Mexican Pacific Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Pacific/Easter
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Easter Island Time
+StandardName               : Easter Island Standard Time
+DaylightName               : Easter Island Summer Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Atikokan
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Atikokan)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Cancun
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Cancun)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Cayman
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Cayman)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Detroit
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Detroit)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Grand_Turk
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Grand Turk)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Indiana/Indianapolis
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Indianapolis)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Iqaluit
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Iqaluit)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Jamaica
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Jamaica)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Kentucky/Louisville
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Louisville)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Indiana/Marengo
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Marengo, Indiana)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Kentucky/Monticello
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Monticello, Kentucky)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Nassau
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Nassau)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/New_York
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (New York)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Panama
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Panama)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Indiana/Petersburg
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Petersburg, Indiana)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Port-au-Prince
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Port-au-Prince)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Toronto
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Toronto)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Indiana/Vevay
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Vevay, Indiana)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Indiana/Vincennes
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Vincennes, Indiana)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Indiana/Winamac
+HasIanaId                  : True
+DisplayName                : (UTC-05:00) Eastern Time (Winamac, Indiana)
+StandardName               : Eastern Standard Time
+DaylightName               : Eastern Daylight Time
+BaseUtcOffset              : -05:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Scoresbysund
+HasIanaId                  : True
+DisplayName                : (UTC-01:00) East Greenland Time (Ittoqqortoormiit)
+StandardName               : East Greenland Standard Time
+DaylightName               : East Greenland Summer Time
+BaseUtcOffset              : -01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Athens
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Athens)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Asia/Beirut
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Beirut)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Bucharest
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Bucharest)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Cairo
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Cairo)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Chisinau
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Chisinau)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Asia/Gaza
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Gaza)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Asia/Hebron
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Hebron)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Helsinki
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Helsinki)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Kaliningrad
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Kaliningrad)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Kyiv
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Kyiv)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Mariehamn
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Mariehamn)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Asia/Nicosia
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Nicosia)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Riga
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Riga)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Sofia
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Sofia)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Tallinn
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Tallinn)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Tripoli
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Tripoli)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Vilnius
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Eastern European Time (Vilnius)
+StandardName               : Eastern European Standard Time
+DaylightName               : Eastern European Summer Time
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Addis_Ababa
+HasIanaId                  : True
+DisplayName                : (UTC+03:00) East Africa Time (Addis Ababa)
+StandardName               : East Africa Time
+DaylightName               : GMT+03:00
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Indian/Antananarivo
+HasIanaId                  : True
+DisplayName                : (UTC+03:00) East Africa Time (Antananarivo)
+StandardName               : East Africa Time
+DaylightName               : GMT+03:00
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Asmara
+HasIanaId                  : True
+DisplayName                : (UTC+03:00) East Africa Time (Asmara)
+StandardName               : East Africa Time
+DaylightName               : GMT+03:00
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Indian/Comoro
+HasIanaId                  : True
+DisplayName                : (UTC+03:00) East Africa Time (Comoro)
+StandardName               : East Africa Time
+DaylightName               : GMT+03:00
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Dar_es_Salaam
+HasIanaId                  : True
+DisplayName                : (UTC+03:00) East Africa Time (Dar es Salaam)
+StandardName               : East Africa Time
+DaylightName               : GMT+03:00
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Djibouti
+HasIanaId                  : True
+DisplayName                : (UTC+03:00) East Africa Time (Djibouti)
+StandardName               : East Africa Time
+DaylightName               : GMT+03:00
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Kampala
+HasIanaId                  : True
+DisplayName                : (UTC+03:00) East Africa Time (Kampala)
+StandardName               : East Africa Time
+DaylightName               : GMT+03:00
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Indian/Mayotte
+HasIanaId                  : True
+DisplayName                : (UTC+03:00) East Africa Time (Mayotte)
+StandardName               : East Africa Time
+DaylightName               : GMT+03:00
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Mogadishu
+HasIanaId                  : True
+DisplayName                : (UTC+03:00) East Africa Time (Mogadishu)
+StandardName               : East Africa Time
+DaylightName               : GMT+03:00
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Nairobi
+HasIanaId                  : True
+DisplayName                : (UTC+03:00) East Africa Time (Nairobi)
+StandardName               : East Africa Time
+DaylightName               : GMT+03:00
+BaseUtcOffset              : 03:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Asia/Almaty
+HasIanaId                  : True
+DisplayName                : (UTC+06:00) East Kazakhstan Time (Almaty)
+StandardName               : East Kazakhstan Time
+DaylightName               : GMT+06:00
+BaseUtcOffset              : 06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Asia/Qostanay
+HasIanaId                  : True
+DisplayName                : (UTC+06:00) East Kazakhstan Time (Kostanay)
+StandardName               : East Kazakhstan Time
+DaylightName               : GMT+06:00
+BaseUtcOffset              : 06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Asia/Dili
+HasIanaId                  : True
+DisplayName                : (UTC+09:00) East Timor Time (Dili)
+StandardName               : East Timor Time
+DaylightName               : GMT+09:00
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Asia/Jayapura
+HasIanaId                  : True
+DisplayName                : (UTC+09:00) Eastern Indonesia Time (Jayapura)
+StandardName               : Eastern Indonesia Time
+DaylightName               : GMT+09:00
+BaseUtcOffset              : 09:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Australia/Brisbane
+HasIanaId                  : True
+DisplayName                : (UTC+10:00) Eastern Australia Time (Brisbane)
+StandardName               : Australian Eastern Standard Time
+DaylightName               : Australian Eastern Daylight Time
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Australia/Hobart
+HasIanaId                  : True
+DisplayName                : (UTC+10:00) Eastern Australia Time (Hobart)
+StandardName               : Australian Eastern Standard Time
+DaylightName               : Australian Eastern Daylight Time
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Australia/Lindeman
+HasIanaId                  : True
+DisplayName                : (UTC+10:00) Eastern Australia Time (Lindeman)
+StandardName               : Australian Eastern Standard Time
+DaylightName               : Australian Eastern Daylight Time
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Antarctica/Macquarie
+HasIanaId                  : True
+DisplayName                : (UTC+10:00) Eastern Australia Time (Macquarie)
+StandardName               : Australian Eastern Standard Time
+DaylightName               : Australian Eastern Daylight Time
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Australia/Melbourne
+HasIanaId                  : True
+DisplayName                : (UTC+10:00) Eastern Australia Time (Melbourne)
+StandardName               : Australian Eastern Standard Time
+DaylightName               : Australian Eastern Daylight Time
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Australia/Sydney
+HasIanaId                  : True
+DisplayName                : (UTC+10:00) Eastern Australia Time (Sydney)
+StandardName               : Australian Eastern Standard Time
+DaylightName               : Australian Eastern Daylight Time
+BaseUtcOffset              : 10:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Boise
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Boise)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Cambridge_Bay
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Cambridge Bay)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Ciudad_Juarez
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Ciudad Juarez)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Creston
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Creston)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Dawson_Creek
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Dawson Creek)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Denver
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Denver)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Edmonton
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Edmonton)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Fort_Nelson
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Fort Nelson)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Inuvik
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Inuvik)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Phoenix
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Phoenix)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Yellowknife
+HasIanaId                  : True
+DisplayName                : (UTC-07:00) Mountain Time (Yellowknife)
+StandardName               : Mountain Standard Time
+DaylightName               : Mountain Daylight Time
+BaseUtcOffset              : -07:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Bahia_Banderas
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Bahia Banderas)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Belize
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Belize)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/North_Dakota/Beulah
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Beulah, North Dakota)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/North_Dakota/Center
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Center, North Dakota)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Chicago
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Chicago)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Chihuahua
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Chihuahua)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Costa_Rica
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Costa Rica)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/El_Salvador
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (El Salvador)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Guatemala
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Guatemala)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Indiana/Knox
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Knox, Indiana)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Managua
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Managua)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Matamoros
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Matamoros)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Menominee
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Menominee)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Merida
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Merida)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Mexico_City
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Mexico City)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Monterrey
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Monterrey)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/North_Dakota/New_Salem
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (New Salem, North Dakota)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Ojinaga
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Ojinaga)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Rankin_Inlet
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Rankin Inlet)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Regina
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Regina)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Resolute
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Resolute)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Swift_Current
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Swift Current)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Tegucigalpa
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Tegucigalpa)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Indiana/Tell_City
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Tell City, Indiana)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : America/Winnipeg
+HasIanaId                  : True
+DisplayName                : (UTC-06:00) Central Time (Winnipeg)
+StandardName               : Central Standard Time
+DaylightName               : Central Daylight Time
+BaseUtcOffset              : -06:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Algiers
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Algiers)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Amsterdam
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Amsterdam)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Andorra
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Andorra)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Belgrade
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Belgrade)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Berlin
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Berlin)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Bratislava
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Bratislava)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Brussels
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Brussels)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Budapest
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Budapest)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Busingen
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Busingen)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Ceuta
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Ceuta)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Copenhagen
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Copenhagen)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Gibraltar
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Gibraltar)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Ljubljana
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Ljubljana)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Arctic/Longyearbyen
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Longyearbyen)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Luxembourg
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Luxembourg)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Madrid
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Madrid)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Malta
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Malta)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Monaco
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Monaco)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Oslo
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Oslo)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Paris
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Paris)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Podgorica
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Podgorica)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Prague
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Prague)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Rome
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Rome)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/San_Marino
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (San Marino)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Sarajevo
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Sarajevo)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Skopje
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Skopje)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Stockholm
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Stockholm)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Tirane
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Tirane)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Tunis
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Tunis)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Vaduz
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Vaduz)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Vatican
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Vatican)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Vienna
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Vienna)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Warsaw
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Warsaw)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Zagreb
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Zagreb)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Europe/Zurich
+HasIanaId                  : True
+DisplayName                : (UTC+01:00) Central European Time (Zurich)
+StandardName               : Central European Standard Time
+DaylightName               : Central European Summer Time
+BaseUtcOffset              : 01:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Blantyre
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Blantyre)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Bujumbura
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Bujumbura)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Gaborone
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Gaborone)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Harare
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Harare)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Juba
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Juba)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Khartoum
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Khartoum)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Kigali
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Kigali)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Lubumbashi
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Lubumbashi)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Lusaka
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Lusaka)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Maputo
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Maputo)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Africa/Windhoek
+HasIanaId                  : True
+DisplayName                : (UTC+02:00) Central Africa Time (Windhoek)
+StandardName               : Central Africa Time
+DaylightName               : GMT+02:00
+BaseUtcOffset              : 02:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Asia/Makassar
+HasIanaId                  : True
+DisplayName                : (UTC+08:00) Central Indonesia Time (Makassar)
+StandardName               : Central Indonesia Time
+DaylightName               : GMT+08:00
+BaseUtcOffset              : 08:00:00
+SupportsDaylightSavingTime : True
+
+Id                         : Australia/Eucla
+HasIanaId                  : True
+DisplayName                : (UTC+08:45) Australian Central Western Standard Time (Eucla)
+StandardName               : Australian Central Western Standard Time
+DaylightName               : Australian Central Western Daylight Time
+BaseUtcOffset              : 08:45:00
+SupportsDaylightSavingTime : True
+
+Id                         : Australia/Adelaide
+HasIanaId                  : True
+DisplayName                : (UTC+09:30) Central Australia Time (Adelaide)
+StandardName               : Australian Central Standard Time
+DaylightName               : Australian Central Daylight Time
+BaseUtcOffset              : 09:30:00
+SupportsDaylightSavingTime : True
+
+Id                         : Australia/Broken_Hill
+HasIanaId                  : True
+DisplayName                : (UTC+09:30) Central Australia Time (Broken Hill)
+StandardName               : Australian Central Standard Time
+DaylightName               : Australian Central Daylight Time
+BaseUtcOffset              : 09:30:00
+SupportsDaylightSavingTime : True
+
+Id                         : Australia/Darwin
+HasIanaId                  : True
+DisplayName                : (UTC+09:30) Central Australia Time (Darwin)
+StandardName               : Australian Central Standard Time
+DaylightName               : Australian Central Daylight Time
+BaseUtcOffset              : 09:30:00
+SupportsDaylightSavingTime : True
+
+
