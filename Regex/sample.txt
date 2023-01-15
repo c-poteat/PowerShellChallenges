@@ -1,0 +1,20 @@
+
+   TypeName: Microsoft.PowerShell.Commands.MatchInfo
+
+Name               MemberType Definition
+----               ---------- ----------
+Equals             Method     bool Equals(System.Object obj)
+GetHashCode        Method     int GetHashCode()
+GetType            Method     type GetType()
+RelativePath       Method     string RelativePath(string directory)
+ToEmphasizedString Method     string ToEmphasizedString(string directory)
+ToString           Method     string ToString(), string ToString(string directory)
+Context            Property   Microsoft.PowerShell.Commands.MatchInfoContext Context {get;set;}
+Filename           Property   string Filename {get;}
+IgnoreCase         Property   bool IgnoreCase {get;set;}
+Line               Property   string Line {get;set;}
+LineNumber         Property   int LineNumber {get;set;}
+Matches            Property   System.Text.RegularExpressions.Match[] Matches {get;set;}
+Path               Property   string Path {get;set;}
+Pattern            Property   string Pattern {get;set;}
+

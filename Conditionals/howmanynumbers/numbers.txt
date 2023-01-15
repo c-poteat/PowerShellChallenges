@@ -1,0 +1,10 @@
+Basketball Stats
+Joel Embiid
+PTS 
+33.4 
+REB 
+9.8 
+AST 
+4.3 
+FG% 
+53.5
