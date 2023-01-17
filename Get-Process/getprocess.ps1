@@ -31,7 +31,3 @@ Get-PSProvider | Format-Table Name, Module, PSSnapIn -AutoSize
 function restart {
 Restart-Computer
 }
-
-function restart2 {
-Restart-Computer Server01, Server02, localhost
-}
