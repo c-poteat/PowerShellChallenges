@@ -1,4 +1,4 @@
-<img src="https://www.techrepublic.com/wp-content/uploads/2020/09/powershell.jpg" width="800" height="400" />
+<img src=/PowerShellChallenges width="800" height="400" />
 
 # PowerShell Challenges
 
