@@ -1,4 +1,4 @@
-<img src=/PowerShellChallenges width="800" height="400" />
+<img src=images/powershell.jpg width="800" height="400" />
 
 # PowerShell Challenges
 
